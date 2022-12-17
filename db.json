@@ -1,0 +1,143 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Juan Vicente",
+      "empresa": "Codigo Con Juan",
+      "email": "juanvicentemunozrodriguez@gmail.com",
+      "telefono": "04128561771",
+      "notas": "aaaaaaaaaaa",
+      "id": 6
+    },
+    {
+      "nombre": "Juan Vicente",
+      "empresa": "Codigo Con Juan",
+      "email": "juanvicentemunozrodriguez@gmail.com",
+      "telefono": "04128561771",
+      "notas": "aaaaaaaaaaa",
+      "id": 7
+    },
+    {
+      "nombre": "Juan Vicente",
+      "empresa": "Codigo Con Juan",
+      "email": "juanvicentemunozrodriguez@gmail.com",
+      "telefono": "04128561771",
+      "notas": "aaaaaaaaaaa",
+      "id": 8
+    },
+    {
+      "nombre": "Juan Vicente",
+      "empresa": "Codigo Con Juan",
+      "email": "juanvicentemunozrodriguez@gmail.com",
+      "telefono": "04128561771",
+      "notas": "aaaaaaaaaaa",
+      "id": 9
+    },
+    {
+      "nombre": "Juan Vicente",
+      "empresa": "Codigo Con Juan",
+      "email": "juanvicentemunozrodriguez@gmail.com",
+      "telefono": "04128561771",
+      "notas": "aaaaaaaaaaa",
+      "id": 10
+    },
+    {
+      "nombre": "Juan Vicente",
+      "empresa": "Codigo Con Juan",
+      "email": "juanvicentemunozrodriguez@gmail.com",
+      "telefono": "04128561771",
+      "notas": "aaaaaaaaaaa",
+      "id": 11
+    },
+    {
+      "nombre": "Juan Vicente",
+      "empresa": "Codigo Con Juan",
+      "email": "juanvicentemunozrodriguez@gmail.com",
+      "telefono": "04128561771",
+      "notas": "aaaaaaaaaaa",
+      "id": 12
+    },
+    {
+      "nombre": "Juan Vicente",
+      "empresa": "Codigo Con Juan",
+      "email": "juanvicentemunozrodriguez@gmail.com",
+      "telefono": "04128561771",
+      "notas": "aaaaaaaaaaa",
+      "id": 13
+    },
+    {
+      "nombre": "Juan Vicente",
+      "empresa": "Codigo Con Juan",
+      "email": "juanvicentemunozrodriguez@gmail.com",
+      "telefono": "04128561771",
+      "notas": "aaaaaaaaaaa",
+      "id": 14
+    },
+    {
+      "nombre": "Juan Vicente",
+      "empresa": "Codigo Con Juan",
+      "email": "juanvicentemunozrodriguez@gmail.com",
+      "telefono": "04128561771",
+      "notas": "aaaaaaaaaaa",
+      "id": 15
+    },
+    {
+      "nombre": "Juan Vicente",
+      "empresa": "Codigo Con Juan",
+      "email": "juanvicentemunozrodriguez@gmail.com",
+      "telefono": "04128561771",
+      "notas": "aaaaaaaaaaa",
+      "id": 16
+    },
+    {
+      "nombre": "Juan Vicente",
+      "empresa": "Codigo Con Juan",
+      "email": "juanvicentemunozrodriguez@gmail.com",
+      "telefono": "04128561771",
+      "notas": "aaaaaaaaaaa",
+      "id": 17
+    },
+    {
+      "nombre": "Juan Vicente",
+      "empresa": "Codigo Con Juan",
+      "email": "juanvicentemunozrodriguez@gmail.com",
+      "telefono": "04128561771",
+      "notas": "aaaaaaaaaaa",
+      "id": 18
+    }
+  ]
+}
